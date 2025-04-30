@@ -1,1 +1,4 @@
+
 gcr.m.daocloud.io/kuar-demo/kuard-amd64:1
+gcr.m.daocloud.io/kuar-demo/kuard-amd64:blue
+gcr.m.daocloud.io/kuar-demo/kuard-amd64:green
