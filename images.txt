@@ -1,2 +1,1 @@
-
-golang:1.23-alpine
+gcr.m.daocloud.io/kuar-demo/kuard-amd64:1
