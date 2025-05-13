@@ -1,7 +1,10 @@
 
+fluent/fluentd:v0.14.10
+fluent/fluentd:v1.16.8
+
 # gcr.m.daocloud.io/kuar-demo/kuard-amd64:1
 # gcr.m.daocloud.io/kuar-demo/kuard-amd64:blue
 # gcr.m.daocloud.io/kuar-demo/kuard-amd64:green
 
-ghcr.io/projectcontour/contour:v1.23.6
-docker.io/envoyproxy/envoy:v1.24.10
+# ghcr.io/projectcontour/contour:v1.23.6
+# docker.io/envoyproxy/envoy:v1.24.10
