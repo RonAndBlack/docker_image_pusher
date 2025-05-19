@@ -1,6 +1,10 @@
 
-fluent/fluentd:v0.14.10
-fluent/fluentd:v1.16.8
+# keycloak
+quay.io/keycloak/keycloak:26.2.4
+mirror.gcr.io/postgres:17
+
+# fluent/fluentd:v0.14.10
+# fluent/fluentd:v1.16.8
 
 # gcr.m.daocloud.io/kuar-demo/kuard-amd64:1
 # gcr.m.daocloud.io/kuar-demo/kuard-amd64:blue
