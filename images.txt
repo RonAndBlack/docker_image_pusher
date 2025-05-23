@@ -1,10 +1,12 @@
 
-mongo:3.4.1
+# mongo:3.4.1
 # mysql
 
 ### keycloak
 # quay.io/keycloak/keycloak:26.2.4
 # mirror.gcr.io/postgres:17
+
+busybox
 
 # fluent/fluentd:v0.14.10
 # fluent/fluentd:v1.16.8
