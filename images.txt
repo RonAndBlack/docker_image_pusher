@@ -6,7 +6,7 @@
 # quay.io/keycloak/keycloak:26.2.4
 # mirror.gcr.io/postgres:17
 
-busybox
+# busybox
 
 # fluent/fluentd:v0.14.10
 # fluent/fluentd:v1.16.8
@@ -17,3 +17,8 @@ busybox
 
 # ghcr.io/projectcontour/contour:v1.23.6
 # docker.io/envoyproxy/envoy:v1.24.10
+
+# 部署实际应用程序
+jupyter/scipy-notebook:abdb27a6dfbb
+ghost
+redis:3.2.7-alpine
