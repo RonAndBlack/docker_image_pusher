@@ -20,7 +20,8 @@
 
 ### 部署实际应用程序
 # jupyter/scipy-notebook:abdb27a6dfbb
-# Parse构建需要的镜像：
-node:20.19.0-alpine3.20
+ccr.ccs.tencentyun.com/jupyter/scipy-notebook-zh:latest
+## Parse构建需要的镜像：
+# node:20.19.0-alpine3.20
 # ghost
 # redis:3.2.7-alpine
