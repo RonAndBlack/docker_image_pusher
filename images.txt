@@ -18,7 +18,8 @@
 # ghcr.io/projectcontour/contour:v1.23.6
 # docker.io/envoyproxy/envoy:v1.24.10
 
-# 部署实际应用程序
-jupyter/scipy-notebook:abdb27a6dfbb
-ghost
-redis:3.2.7-alpine
+### 部署实际应用程序
+# jupyter/scipy-notebook:abdb27a6dfbb
+node:20.19.0-alpine3.20 # Parse构建需要的镜像
+# ghost
+# redis:3.2.7-alpine
