@@ -23,7 +23,8 @@
 # jupyter/scipy-notebook:abdb27a6dfbb
 # jupyter/minimal-notebook:latest
 ## Parse构建需要的镜像：
-node:lts-alpine
+# node:lts-alpine
+node:14-alpine
 # node:20.19.0-alpine3.20
 ## ghost
 # ghost
