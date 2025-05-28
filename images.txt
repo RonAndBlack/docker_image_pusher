@@ -19,9 +19,13 @@
 # docker.io/envoyproxy/envoy:v1.24.10
 
 ### 部署实际应用程序
+## jupyter
 # jupyter/scipy-notebook:abdb27a6dfbb
-jupyter/minimal-notebook:latest
+# jupyter/minimal-notebook:latest
 ## Parse构建需要的镜像：
+node:lts-alpine
 # node:20.19.0-alpine3.20
+## ghost
 # ghost
+## redis
 # redis:3.2.7-alpine
