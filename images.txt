@@ -1,4 +1,7 @@
 
+### kubernetes设计模式
+k8spatterns/random-generator:1.0
+
 # mongo:3.4.1
 # mysql
 
