@@ -35,5 +35,10 @@
 ## redis
 # redis:3.2.7-alpine
 
-# mrhavens/dedockify 是一个用于​​从现有 Docker 镜像反向生成 Dockerfile​​ 的工具镜像。它的主要作用是帮助用户​​恢复或重建镜像的构建过程。
-mrhavens/dedockify
+nginx:stable-alpine
+
+
+
+
+## mrhavens/dedockify 是一个用于​​从现有 Docker 镜像反向生成 Dockerfile​​ 的工具镜像。它的主要作用是帮助用户​​恢复或重建镜像的构建过程。
+# mrhavens/dedockify
