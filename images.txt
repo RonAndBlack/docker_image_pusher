@@ -1,7 +1,7 @@
 
 ### kubernetes设计模式
 # k8spatterns/random-generator:1.0
-quay.io/wildfly/wildfly
+# quay.io/wildfly/wildfly
 
 # mongo:3.4.1
 # mysql
@@ -28,9 +28,12 @@ quay.io/wildfly/wildfly
 # jupyter/minimal-notebook:latest
 ## Parse构建需要的镜像：
 # node:lts-alpine
-node:14-alpine
+# node:14-alpine
 # node:20.19.0-alpine3.20
 ## ghost
 # ghost
 ## redis
 # redis:3.2.7-alpine
+
+# mrhavens/dedockify 是一个用于​​从现有 Docker 镜像反向生成 Dockerfile​​ 的工具镜像。它的主要作用是帮助用户​​恢复或重建镜像的构建过程。
+mrhavens/dedockify
