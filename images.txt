@@ -3,11 +3,11 @@
 # k8spatterns/random-generator:1.0
 
 # k8spatterns/welcome-servlet:1.0
-k8spatterns/config-dev-image:1.0.1
-k8spatterns/config-prod-image:1.0.1
-k8spatterns/demo:1
-k8spatterns/config-dev:1
-k8spatterns/config-prod:1
+# k8spatterns/config-dev-image:1.0.1
+# k8spatterns/config-prod-image:1.0.1
+# k8spatterns/demo:1
+# k8spatterns/config-dev:1
+# k8spatterns/config-prod:1
 
 # quay.io/wildfly/wildfly
 openjdk:11
