@@ -1,7 +1,16 @@
 
 ### kubernetes设计模式
 # k8spatterns/random-generator:1.0
+k8spatterns/welcome-servlet:1.0
+k8spatterns/config-dev-image:1.0.1
+k8spatterns/config-prod-image:1.0.1
+k8spatterns/demo:1
+k8spatterns/config-dev:1
+k8spatterns/config-prod:1
+
 # quay.io/wildfly/wildfly
+openjdk:11
+scratch
 
 # mongo:3.4.1
 # mysql
@@ -36,8 +45,8 @@
 # redis:3.2.7-alpine
 
 # nginx:stable-alpine
-registry.k8s.io/ingress-nginx/controller:v1.10.1@sha256:e24f39d3eed6bcc239a56f20098878845f62baa34b9f2be2fd2c38ce9fb0f29e
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1@sha256:36d05b4077fb8e3d13663702fa337f124675ba8667cbd949c03a8e8ea6fa4366
+# registry.k8s.io/ingress-nginx/controller:v1.10.1@sha256:e24f39d3eed6bcc239a56f20098878845f62baa34b9f2be2fd2c38ce9fb0f29e
+# registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1@sha256:36d05b4077fb8e3d13663702fa337f124675ba8667cbd949c03a8e8ea6fa4366
 
 
 
