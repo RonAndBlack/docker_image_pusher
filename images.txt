@@ -4,6 +4,8 @@
 ### kubernetes设计模式
 # k8spatterns/random-generator:1.0
 # k8spatterns/example-configuration-template-init
+hairyhenderson/gomplate:v3
+
 
 ### 找不到以下镜像文件
 # k8spatterns/welcome-servlet:1.0
