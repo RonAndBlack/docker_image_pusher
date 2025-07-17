@@ -1,10 +1,10 @@
 
-# scratch镜像不是一个真实的、存储在镜像仓库（如 Docker Hub）里的镜像，它是 Docker 提供的一个虚拟的、空白的、大小为 0 的基础镜像。
+#### scratch镜像不是一个真实的、存储在镜像仓库（如 Docker Hub）里的镜像，它是 Docker 提供的一个虚拟的、空白的、大小为 0 的基础镜像。
 
 ### kubernetes设计模式
 # k8spatterns/random-generator:1.0
 
-# k8spatterns/welcome-servlet:1.0
+k8spatterns/welcome-servlet:1.0
 # k8spatterns/config-dev-image:1.0.1
 # k8spatterns/config-prod-image:1.0.1
 # k8spatterns/demo:1
