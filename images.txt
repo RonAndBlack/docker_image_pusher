@@ -4,7 +4,7 @@
 ### kubernetes设计模式
 # k8spatterns/random-generator:1.0
 # k8spatterns/example-configuration-template-init
-tomcat:10-jdk17
+# tomcat:10-jdk17
 # hairyhenderson/gomplate:v3
 
 
@@ -21,13 +21,14 @@ tomcat:10-jdk17
 # openjdk:11
 
 # mongo:3.4.1
-# mysql
+mysql:5.7
+mysql:8.0
 
 ### keycloak
 # quay.io/keycloak/keycloak:26.2.4
 # mirror.gcr.io/postgres:17
 
-# busybox
+busybox:1.35
 
 # fluent/fluentd:v0.14.10
 # fluent/fluentd:v1.16.8
