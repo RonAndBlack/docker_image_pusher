@@ -21,14 +21,14 @@
 # openjdk:11
 
 # mongo:3.4.1
-mysql:5.7
-mysql:8.0
+# mysql:5.7
+# mysql:8.0
 
 ### keycloak
 # quay.io/keycloak/keycloak:26.2.4
 # mirror.gcr.io/postgres:17
 
-busybox:1.35
+# busybox:1.35
 
 # fluent/fluentd:v0.14.10
 # fluent/fluentd:v1.16.8
@@ -52,11 +52,12 @@ busybox:1.35
 # ghost
 ## redis
 # redis:3.2.7-alpine
+## 部署Opendiloco
+primeintellect/open_diloco:main
 
 # nginx:stable-alpine
 # registry.k8s.io/ingress-nginx/controller:v1.10.1@sha256:e24f39d3eed6bcc239a56f20098878845f62baa34b9f2be2fd2c38ce9fb0f29e
 # registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1@sha256:36d05b4077fb8e3d13663702fa337f124675ba8667cbd949c03a8e8ea6fa4366
-
 
 
 ## mrhavens/dedockify 是一个用于​​从现有 Docker 镜像反向生成 Dockerfile​​ 的工具镜像。它的主要作用是帮助用户​​恢复或重建镜像的构建过程。
